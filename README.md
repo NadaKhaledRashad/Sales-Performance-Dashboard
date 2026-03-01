@@ -48,7 +48,7 @@ Excel Charts & Conditional Formatting — KPI cards and visual storytelling
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/nada-khaled-rashad?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BarkLvxHQoK0CkoeHP4SJg%3D%3D)">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/nada-khaled-rashad/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lets_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
