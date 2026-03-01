@@ -2,11 +2,11 @@
 Interactive Sales Analytics Dashboard (2016–2019) built using Excel &amp; Power Query to analyze revenue, profit, trends, and regional performance.
 Sales Analytics Dashboard (2016–2019)
 
-🔎 Project Overview
+**🔎 Project Overview**
 This project presents an interactive Sales Analytics Dashboard covering four fiscal years (2016–2019). The goal was to transform raw transactional data into clear, actionable insights that support data-driven business decisions.
 The dashboard provides a 360° view of company performance across revenue trends, profitability, product performance, regional distribution, and shipping efficiency — all within a single, user-friendly interface.
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 Monitor core KPIs: Total Sales, Total Profit, and Order Volume
 Analyze year-over-year growth and seasonal trends
 Evaluate category and sub-category performance
@@ -14,7 +14,7 @@ Assess regional sales distribution and state-level order density
 Compare profitability across shipping modes
 Enable self-service analytics through interactive slicers and filters
 
-🧹 Data Cleaning Highlights
+**🧹 Data Cleaning Highlights**
 Removed duplicate records
 Handled missing values and standardized data formats
 Converted date fields for accurate time-series analysis
@@ -22,21 +22,21 @@ Normalized categorical fields to eliminate inconsistencies
 Reviewed outliers in Sales, Profit, and Discount
 Created calculated metrics (Profit Margin %, Days to Ship, Sales per Order)
 
-📊 Key Findings
+**📊 Key Findings**
 Consistent revenue growth from 2016 to 2019, with strong Q4 seasonality
 Technology is the highest-performing category (especially Phones)
 Furniture shows lower profitability due to discount-heavy sub-categories
 West region leads in sales, with California as the top-performing state
 Same Day shipping yields the highest profit per order
 
-💡 Strategic Recommendations
+**💡 Strategic Recommendations**
 Optimize discount strategy for low-margin products (e.g., Tables)
 Increase investment in high-performing Technology products
 Replicate West region success strategies in underperforming regions
 Promote premium shipping modes to boost profitability
 Prepare strategically for strong Q4 seasonal demand
 
-🛠 Tools Used
+**🛠 Tools Used**
 Microsoft Excel — Dashboard design, pivot tables, slicers, visualizations
 Power Query — Data transformation and cleaning
 Excel Charts & Conditional Formatting — KPI cards and visual storytelling
